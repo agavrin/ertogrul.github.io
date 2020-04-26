@@ -1,4 +1,4 @@
-# Watson on Cloud Workshop
+# Visual Recognition Lab
 
 version 0.01, 2020.04.26
 
@@ -9,20 +9,18 @@ This course is meant mainly for people not having data science experience, who a
 
 
 
-
-
 ## Agenda
 
-**Day One**
-+ AlgorithmsIntroduction - 15 min
-+ Kubernetes Preparation (**Lab**)
+**2 hours in total**
++ Algorithms Introduction - 10 min
++ Watson Studio Introduction - 15 min
++ Watson Studio Preparation (**lab**)
   + [1-PrepareLab/README.md](1-PrepareLab/README.md)
-+ Docker Overview (**presentation**)
-+ Docker (**Lab**):
-  + [2-DockerLab/README.md](2-DockerLab/README.md)
-+ Orchestration and Kubernetes overview (**presentation**)
-+ IBM Cloud (Public) Container Service (**presentation**)
-  + Kubernetes on IKS  (**Lab**): [3-KubernetesLabOnIKS/README.md](3-KubernetesLabOnIKS/README.md)
-+ Openshift overview (**presentation**)
-	+ Openshift part 1(**Lab**):  [https://github.com/maciejs20/openshift-labs/blob/master/Lab1/1-OpenShift-Lab.md](https://github.com/maciejs20/openshift-labs/blob/master/Lab1/1-OpenShift-Lab.md)
-+ Wrap Up
++ Watson Studio AutoAI (**lab**):
+  + [2-WatsonStudioLab/README.md](2-WatsonStudioLab/README.md)
++ Working Visual Recognition Application (**lab**)
+  + [3-VisualRecognitionLab/README.md](3-VisualRecognitionLab/README.md)
++ Watson OpenScale (**demo**)
++ Q&A
+  + [4-ExtraStuffOpenAI/README.md](4-ExtraStuffOpenAI/README.md)
+  
