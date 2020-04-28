@@ -1,23 +1,25 @@
-# Watson tools on IBM Cloud Lab
+# Watson on IBM Cloud Lab
 
-version 0.01, 2020.04.26
+version 0.02, 2020.04.28
 
 This is an introductory Watson on Cloud workshop created by Michal Kordyzon, IBM Poland (michal.kordyzon@pl.ibm.com).
 This workshop also contains materials used in Watson Studio tutorials presented here: 
 https://www.ibm.com/cloud/garage/dte/tutorial/ibmr-watson-studio-mldl-made-easy
 
-This course is meant for people not having data backgrond, and who are subject experts in their fields (it can anything: law, engineering, logistics, marketing, sales, etc.).
+[link to a workshop](https://www.ibm.com/cloud/garage/dte/tutorial/ibmr-watson-studio-mldl-made-easy)
+
+This course is meant for professionals with no data science background and who are subject experts in their fields (like engineering, logistics, marketing, procurement, sales, law, production, and more).
 
 ![w1](/images/w1.png)
 
 ## Agenda
 
 **2 hours in total**
-+ Introduction - 10 min
-+ Watson Studio Introduction - 15 min
-+ Watson Studio Preparation - 15 min (**lab**)
++ Introduction do Data Science - 10 min
++ Watson Studio Introduction - 10 min
++ Preparation Lab - 15 min (**lab**)
   + [1-PrepareLab/README.md](1-PrepareLab/README.md)
-+ Watson Studio AutoAI - 30 min (**lab**):
++ Watson Studio on IBM Cloud - running AutoAI experiment - 30 min (**lab**):
   + [2-WatsonStudioLab/README.md](2-WatsonStudioLab/README.md)
 + Working Visual Recognition Application - 30 min (**lab**)
   + [3-VisualRecognitionLab/README.md](3-VisualRecognitionLab/README.md)
