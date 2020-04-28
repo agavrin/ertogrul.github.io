@@ -1,66 +1,76 @@
 
 
-# Preparing the labs
+# Registration to IBM Cloud
 ---
 
-
-
-
-
-
-
-
-
-
-
 -----------------------------------------
-![image-20181018184328603](../images/image-20181018184328603.png)
+![w2](../images/w2.png)
 
 
 
-Before you can run all the labs about containers in IBM Cloud, you should prepare your environment to execute those labs. Check the following instructions.
+First step is preparing your environment on IBM Cloud. Check the following instructions.
 
 
-# Task 1. IBM Cloud registration
+# 1. IBM Cloud registration
 
-Labs are running on the **IBM Cloud** (ex Bluemix).
+All labs are executed on the **IBM Cloud**, and prerequisites are:
 
-So before you can start any labs, you should have satisfied the following prerequisites :
 - [ ] You should have **1 valid email** 
 
 - [ ] Sign up to the **IBM Cloud** 
 
 
-**If you already have a IBM id, jump to task 2.**
+**If you already have a IBM id, go to point 2 of this script.**
 
-> If you don't have a valid email address or you don't want to use your personal or professional email address, then you can use https://temp-mail.org/en/
+> If you don't have a valid email address that you could use for cloud registration please use a temporary email service, like this: https://temp-mail.org/en/
 
 This web site will give you a temporary email address for 10 minutes :
 
-![image-20190118103132743](../images/image-20190118103132743-7803892.png)
+![image w1-1](../images/w1-1.png)
 
-From that screen,  you can use this temporaty email address (cugebezaza@utooemail.com for example) for the time to register to the IBM Cloud. 
+From screen above, you can use this temporaty email address (cugebezaza@utooemail.com for example) just to register to IBM Cloud. 
 
-### Sign in to IBM Cloud
-If you don't have already registered to **IBM Cloud**, open this link  [IBM Cloud](https://cloud.ibm.com/registration?cm_mmc=IBM-MDS-Container1) or type https://cloud.ibm.com/registration?cm_mmc=IBM-MDS-Container1 in your favorite internet browser.
-
-
+### Start registration
+To register to **IBM Cloud**, open this link: [IBM Cloud](cloud.ibm.com/registration) or type http://cloud.ibm.com/registration in your browser (Chrome or Firefox are recommended).
 
 
-![image-20190118101459166](../images/image-20190118101459166-7802899.png)
+
+![image-w1-2](../images/w1-2.png)
 
 ### Fill in the form
-Specify last name, first name, country, phone number and password.
-> By **default**, all new people that register to IBM Cloud will have an **Lite Account** with **no time restriction**. This is not a 30 day trial account. 
+Specify email and password.
+
+![image-w1-3](../images/w1-3.png)
+
+Click 'Next' button.
+
+![image-w1-4](../images/w1-4.png)
+
+Check your email and enter verification code in the field as shown above. Click 'Next' button.
+
+![image-w1-5](../images/w1-5.png)
+
+Enter your name, second name and country. Click 'Next' button.
+
+
+> By **default**, all new people that register to IBM Cloud will have an **Lite Account** with **no time restriction**. This is not a 30 day trial account.  
 
 Click on **Create Account** button.
 
 ![image-20190118103712268](../images/image-20190118103712268-7804232.png) 
 
 
-Then if everything is fine, you will receive the following page:
+![Proceed](/../images/w1-6.png)
 
-![Thanks](./../images/a003.png)
+
+Then if everything is fine, you will receive Data agreement page. After reading click 'Proceed' button on the bottom of the page.
+
+
+![Proceed](/../images/w1-7.png)
+
+Finally you should get a dashboard screen on your cloud account as shown above.
+
+
 
 
 ### Confirm your registration to IBM Cloud from your inbox
@@ -93,7 +103,7 @@ You are now connected (and registred) to the IBM Cloud.
 > IMPORTANT : Take a note of your email address and your password.
 
 
-# Task 2. Apply a promo code 
+# Task 2. Start Watson Studio Instance
 
 Go to **Manage >Account > Account Settings** and press enter.
 
