@@ -1,4 +1,4 @@
-# Visual Recognition Lab
+# Watson tools on IBM Cloud Lab
 
 version 0.01, 2020.04.26
 
