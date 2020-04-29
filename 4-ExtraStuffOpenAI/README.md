@@ -1,8 +1,4 @@
-# DO NOT USE, SITE UNDER CONSTRUCTION !!!!    
-      
-      
-# Lab - running Reinforcement Learning models on Watson Studio      
-    
+# Lab - running Reinforcement Learning models on Watson Studio          
     
   
 Returning to the agenda page?  [CLICK HERE](../README.md)    
@@ -44,7 +40,7 @@ Select 'from file' tab and click on the 'Drag and drop files here or upload' are
 
 Now choose the notebook downloaded in the prerequisites section of this script and upload this file to Watson Studio.  
 
-Open the file and run it.
+Open the file in Watson Stuio, apply Python environment to it and run it. Enjoy :)
 
 
       
