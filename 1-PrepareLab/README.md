@@ -1,14 +1,12 @@
 # Preparation Lab
 
-.&nbsp;
-.&nbsp;
-.&nbsp;
-.&nbsp;
+\
+\
+\
 Wanna return to the agenda page?  [CLICK HERE](../README.md)
-.&nbsp;
-.&nbsp;
-.&nbsp;
-
+\
+\
+\
 ![w2](../images/w2.png)
 &nbsp;
 &nbsp;
@@ -129,7 +127,7 @@ Welcome to Watson Studio :)
 &nbsp;
 ![image-tenor](../images/tenor.gif)
 &nbsp;
-&nbsp;
+.&nbsp;
 Take a moment to look at Documentation with great tutorials and scan through Community part where notebooks with various models are created.
 
 

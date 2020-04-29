@@ -37,6 +37,24 @@ IBM Cloud has several demonstration apps that you just need to find and start. V
 
 > If you haven't registered to IBM Cloud or haven't started Watson Studio intance, please proceed to Preparation Lab.
 
+When logged to IBM Cloud account navigate to Manage - Account menu in the top right corner of the screen.
+
+&nbsp;
+&nbsp;
+ ![image-w3-1-1](../images/w3-1-1.png)
+&nbsp;
+&nbsp;
+
+Now click on Cloud Foundry orgs sqare in mid-screen.
+&nbsp;
+&nbsp;
+ ![image-w3-1-2](../images/w3-1-1.png)
+&nbsp;
+&nbsp;
+
+
+
+
 Navigate to your dashboard on IBM Cloud. You can use first icon on the vertical menu on the left.
 &nbsp;
 &nbsp;
@@ -77,7 +95,26 @@ Now you need to choose a region and a pricing plan for your newly created app. F
 &nbsp;
 &nbsp;
 
-Now your are ready to deploy your app. Click 'Deploy you app' button. A lot of thing will happen in the backgound.
+Now your are ready to deploy your app. Click 'Deploy you app' button. 
+&nbsp;
+ ![image-w3-7](../images/w3-7.png)
+&nbsp;
+
+Select Cloud Foundry VM to deploy your app on (as on the screen below).
+&nbsp;
+ ![image-w3-8](../images/w3-8.png)
+&nbsp;
+Now you need to click 'New' button in the part 'IBM Cloud API Key'. You will get a following pop up window:
+&nbsp;
+ ![image-w3-9](../images/w3-9.png)
+&nbsp;
+You don't have to save this API key. For simplicity just click OK button and API key will be created for you.
+ XXXXXXXXXXXXXXXXXXXXX
+
+
+
+
+A lot of things will happen in the backgound: git lab repository will be created, Continous Integration instance will be created for you. Your app will be build from scratch and then deployed on Cloud Foundry VM. You just need to wait 5-10 minutes for all that things to process. 
 
 &nbsp;
 &nbsp;
