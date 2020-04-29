@@ -1,40 +1,20 @@
 # Preparation Lab
----
-
------------------------------------------
+' '
+' '
+' '
+Wanna return to the agenda page?  [CLICK HERE](../README.md)
+' '
+' '
+' '
 ![w2](../images/w2.png)
 ' '
 ' '
 ' '
-' '
-
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-Return to the agenda page: [CLICK HERE](../README.md)
-' '
-' '
-' '
-
-<br />
-<br />
-<br />
-<br />
-<br />
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
 First step is preparing your environment on IBM Cloud. Check the following instructions.
-&nbsp;
-&nbsp;
+' '
+' '
+' '
+' '
 
 # 1. IBM Cloud registration
 
@@ -49,52 +29,52 @@ All labs are executed on the **IBM Cloud**, and prerequisites are:
 
 If you don't have a valid email address that you could use for cloud registration please use a temporary email service, like this: https://temp-mail.org/en/
 The temp-mail web site (shown below) will give you a temporary email address for 10 minutes. You can use this temporaty email address just to register to IBM Cloud. 
-&nbsp;
-&nbsp;
+' '
+' '
 ![image w1-1](../images/w1-1.png)
-&nbsp;
-&nbsp;
+' '
+' '
 
 ### Start registration
 To register to **IBM Cloud**, open this link: [IBM Cloud](cloud.ibm.com/registration) or type http://cloud.ibm.com/registration in your browser (Chrome or Firefox are recommended). You will get to this page.
 
-&nbsp;
-&nbsp;
+' '
+' '
 ![image-w1-2](../images/w1-2.png)
-&nbsp;
-&nbsp;
+' '
+' '
 ### Fill in the form
 Specify email and password.
 
 > IMPORTANT : Take a note of your email address and your password.
-&nbsp;
-&nbsp;
+' '
+' '
 ![image-w1-3](../images/w1-3.png)
-&nbsp;
-&nbsp;
+' '
+' '
 Click 'Next' button to move to next page. Now the verification code is generated to 
-&nbsp;
-&nbsp;
+' '
+' '
 ![image-w1-4](../images/w1-4.png)
-&nbsp;
-&nbsp;
+' '
+' '
 Check your email inbox and get the verification code from the email to the field shown above. Click 'Next' button.
-&nbsp;
-&nbsp;
+' '
+' '
 ![image-w1-5](../images/w1-5.png)
-&nbsp;
-&nbsp;
+' '
+' '
 Enter your name, second name and country. Click 'Next' button.
 
 
 > By **default**, you get a **Lite Account** with **no time restriction**. This is not a 30 day trial account. You are about to build things that will last for ages ;)  
 
 Click on **Create Account** button.
-&nbsp;
-&nbsp;
+' '
+' '
 ![Proceed](/../images/w1-6.png)
-&nbsp;
-&nbsp;
+' '
+' '
 
 Then if everything is fine, you will get on data agreement page. After reading the agreemnent click 'Proceed' button on the bottom of the page.
 
