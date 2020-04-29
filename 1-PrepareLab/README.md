@@ -42,7 +42,7 @@ Specify email and password.
   
 ![image-w1-3](../images/w1-3.png)  
   
-Click 'Next' button to move to next page. Now the verification code is generated to 
+Click 'Next' button to move to the next page. Now the verification code is generated and sent to your inbox. 
   
 ![image-w1-4](../images/w1-4.png)  
   
@@ -53,7 +53,7 @@ Check your email inbox and get the verification code from the email to the field
   
 Enter your name, second name and country. Click 'Next' button.  
  
-> By **default**, you get a **Lite Account** with **no time restriction**. This is not a 30 day trial account. You are about to build things that will last for ages ;)    
+> Your **Lite Account** has **no time restriction**. This is not a 30 day trial account. You are about to build things that will last for ages ;)    
   
 Click on **Create Account** button.  
   

@@ -38,7 +38,7 @@ Now click on Cloud Foundry orgs square in mid-screen.
   
 Next click on your email address (visible on picture below) to enter your organisation (at this moment this is the only org on your IBM Cloud account).  
 
-> Organizations and spaces are a way to organize many cloud foundry apps. Oragnizations can hold a department or even whole company within the organization you can create may spaces. Spaces are for separate apps or projects. Then you attach apps, cloud services or users to them.    
+> Organisations and spaces are a way to organise applications based on cloud foundry. Oragnization can represent a department or a company. Within the organisation you can create many spaces. Space can represent apps, projects.
 
     
  ![image-w3-1-3](../images/w3-1-3.png)         
