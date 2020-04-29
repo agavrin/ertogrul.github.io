@@ -52,17 +52,28 @@ Click 'Get Started'. You are redirected to a page creating your free Visual Reco
  ![image-w3-5](../images/w3-5.png)
 &nbsp;
 &nbsp;
-Now you need to choose a region na pricing plan for your newly created app. For pricing plan ensure that you are on Lite. Then click 'Create' button.
+Now you need to choose a region and a pricing plan for your newly created app. For a pricing plan ensure that you are on Lite. Then click 'Create' button.
 
+&nbsp;
+> Note that your instance will be created in one of IBM Cloud regions. You can choose a region (which means data center for your app or data) that is close to you and is located within the boundaries of Europen Union. In that case no data will leave EU.
+&nbsp;
 &nbsp;
 &nbsp;
  ![image-w3-6](../images/w3-6.png)
 &nbsp;
 &nbsp;
 
+Now your are ready to deploy your app. Click 'Deploy you app' button. A lot of thing will happen in the backgound.
+
+&nbsp;
+&nbsp;
+ ![image-w3-7](../images/w3-7.png)
+&nbsp;
+&nbsp;
 
 
-To do the AutoAI experiment lab click [this link](https://www.ibm.com/cloud/garage/dte/tutorial/ibmr-watson-studio-mldl-made-easy) and follow instructions in **Task 1** and **Task 2** sections. If you get the flow feel free to do all tasks later on.
+
+
 
 &nbsp;
 &nbsp;
