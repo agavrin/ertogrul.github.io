@@ -12,7 +12,7 @@ This course is meant for professionals with no data science background and who a
 ## Agenda    
     
 **(2 hours in total)**    
-+ Introduction do Data Science - 15 min    
++ Introduction to Data Science - 15 min    
 + Watson Studio on IBM Cloud Introduction - 15 min    
 + Preparation Lab - 15 min (**lab**)    
   + [1-PrepareLab/README.md](1-PrepareLab/README.md)    

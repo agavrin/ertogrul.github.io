@@ -7,7 +7,7 @@ Returning to the agenda page?  [CLICK HERE](../README.md)
     
        
 
-![w2](../images/w2.png)  
+![w2-a](../images/w2-a.png)  
   
   
 
