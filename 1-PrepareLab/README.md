@@ -1,12 +1,13 @@
 # Preparation Lab
 
-\
-\
-\
++
++
++
 Wanna return to the agenda page?  [CLICK HERE](../README.md)
-\
-\
-\
++
++
++
+
 ![w2](../images/w2.png)
 &nbsp;
 &nbsp;
