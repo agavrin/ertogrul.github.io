@@ -48,7 +48,7 @@ When logged to IBM Cloud account navigate to Manage - Account menu in the top ri
 Now click on Cloud Foundry orgs sqare in mid-screen.
 &nbsp;
 &nbsp;
- ![image-w3-1-2](../images/w3-1-1.png)
+ ![image-w3-1-2](../images/w3-1-2.png)
 &nbsp;
 &nbsp;
 
