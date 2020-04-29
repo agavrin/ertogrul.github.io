@@ -1,20 +1,18 @@
 # Preparation Lab
-' '
-' '
-' '
+&nbsp;
+&nbsp;
+&nbsp;
 Wanna return to the agenda page?  [CLICK HERE](../README.md)
-' '
-' '
-' '
+&nbsp;
+&nbsp;
+&nbsp;
 ![w2](../images/w2.png)
-' '
-' '
-' '
+&nbsp;
+&nbsp;
+
 First step is preparing your environment on IBM Cloud. Check the following instructions.
-' '
-' '
-' '
-' '
+&nbsp;
+&nbsp;
 
 # 1. IBM Cloud registration
 
