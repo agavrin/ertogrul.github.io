@@ -1,5 +1,3 @@
-
-
 # Preparation Lab
 ---
 
@@ -8,7 +6,12 @@
 &nbsp;
 &nbsp;
 &nbsp;
-
+&nbsp;
+Return to the agenda page: [CLICK HERE](../README.md)
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
 First step is preparing your environment on IBM Cloud. Check the following instructions.
 &nbsp;
 &nbsp;
@@ -26,60 +29,81 @@ All labs are executed on the **IBM Cloud**, and prerequisites are:
 
 If you don't have a valid email address that you could use for cloud registration please use a temporary email service, like this: https://temp-mail.org/en/
 The temp-mail web site (shown below) will give you a temporary email address for 10 minutes. You can use this temporaty email address just to register to IBM Cloud. 
-
-
+&nbsp;
+&nbsp;
 ![image w1-1](../images/w1-1.png)
-
+&nbsp;
+&nbsp;
 
 ### Start registration
 To register to **IBM Cloud**, open this link: [IBM Cloud](cloud.ibm.com/registration) or type http://cloud.ibm.com/registration in your browser (Chrome or Firefox are recommended). You will get to this page.
 
-
+&nbsp;
+&nbsp;
 ![image-w1-2](../images/w1-2.png)
-
+&nbsp;
+&nbsp;
 ### Fill in the form
 Specify email and password.
 
 > IMPORTANT : Take a note of your email address and your password.
-
+&nbsp;
+&nbsp;
 ![image-w1-3](../images/w1-3.png)
-
+&nbsp;
+&nbsp;
 Click 'Next' button to move to next page. Now the verification code is generated to 
-
+&nbsp;
+&nbsp;
 ![image-w1-4](../images/w1-4.png)
-
+&nbsp;
+&nbsp;
 Check your email inbox and get the verification code from the email to the field shown above. Click 'Next' button.
-
+&nbsp;
+&nbsp;
 ![image-w1-5](../images/w1-5.png)
-
+&nbsp;
+&nbsp;
 Enter your name, second name and country. Click 'Next' button.
 
 
 > By **default**, you get a **Lite Account** with **no time restriction**. This is not a 30 day trial account. You are about to build things that will last for ages ;)  
 
 Click on **Create Account** button.
-
+&nbsp;
+&nbsp;
 ![Proceed](/../images/w1-6.png)
-
+&nbsp;
+&nbsp;
 
 Then if everything is fine, you will get on data agreement page. After reading the agreemnent click 'Proceed' button on the bottom of the page.
 
-
+&nbsp;
+&nbsp;
 ![hellofinal](/../images/w1-7.png)
-
+&nbsp;
+&nbsp;
 Finally you should get a dashboard screen on your cloud account as shown above. First thing you can do is clicking Catalog button and scanning through all those services you can use to build your future apps :) 
 
 
 > IMPORTANT : Have you written down your email and password? Last chance to do it.
 
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
 
-# Task 2. Start Watson Studio Instance
+# Task 2. Create Watson Studio Instance
 
 Write **"Watson Studio"** or just **"studio"** in the search pane on the dashboard screen of your IBM Cloud account. Click on the search pane or just wait. You should see scroll down with a Watson Studio service (the one with a lamp icon).
 
-
+&nbsp;
+&nbsp;
 ![image-w2-1](../images/w2-1.png)
-
+&nbsp;
+&nbsp;
 
 Click on the Watson Studio Service. You should get to the screen with payment plans (below). This service is for starting one or many instances of Watson Studio. 
 
@@ -90,15 +114,19 @@ Click on the Watson Studio Service. You should get to the screen with payment pl
 Ensure that the Lite Plan is chosen and click Create button on the rigt bottom corner of the screen. 
 
 
-
+&nbsp;
+&nbsp;
 ![image-w2-2](../images/w2-2.png)
-
+&nbsp;
+&nbsp;
 
 Welcome to Watson Studio :)
 
-
+&nbsp;
+&nbsp;
 ![image-tenor](../images/tenor.gif)
-
+&nbsp;
+&nbsp;
 Take a moment to look at Documentation with great tutorials and scan through Community part where notebooks with various models are created.
 
 

@@ -1,11 +1,16 @@
 
-# Watson Studio Lab - AutoAI experiment
+# Lab - running AutoAI experiment on Watson Studio
 
-
+&nbsp;
+&nbsp;
 ![image-w3-1](../images/w3-1.png)
-
+&nbsp;
+&nbsp;
 > IMPORTANT: The most important thing for you right now is to take your time and do not rush through the scripts. Rather, try to understand new concepts and let them sink in. You can finish the lab during the workshop but if don't it's OK. You will be able to finish it later.  You can also continue with other labs that you find on the way. This is how any skill is built - by doing. 
-
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
 # 1. Run AutoAI Experiment on Watson Studio
 
 Prerequisites for this lab are:
@@ -19,7 +24,9 @@ AutoAI in Watson Studio helps you touch the data in many different ways and it's
 > If you haven't registered to IBM Cloud or haven't started Watson Studio intance, please proceed to Preparation Lab.
 
 
-To do the AutoAI experiment lab click [this link](https://www.ibm.com/cloud/garage/dte/tutorial/ibmr-watson-studio-mldl-made-easy) and follow instructions in **Task 1** and **Task 2** sections. If you get the flow feel free to do all tasks later on.
-
-
+To do the AutoAI experiment lab click [this link](https://www.ibm.com/cloud/garage/dte/tutorial/ibmr-watson-studio-mldl-made-easy) and follow instructions in **Task 1** and **Task 2** sections. If you get the flow feel free to do all tasks later on after the workshop.
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
 # End of AutoAI experiment
