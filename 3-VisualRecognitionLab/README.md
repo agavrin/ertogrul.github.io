@@ -3,7 +3,7 @@
 
 Wanna return to the agenda page?  [CLICK HERE](../README.md)  
   
-  
+
 ![image-w3-1](../images/w3-1.png)
   
     
@@ -28,77 +28,63 @@ IBM Cloud has several demonstration apps that you just need to find and start. V
 
 When logged to IBM Cloud account navigate to Manage - Account menu in the top right corner of the screen.  
 
-&nbsp;
- ![image-w3-1-1](../images/w3-1-1.png)  
-&nbsp;
+  
+ ![image-w3-1-1](../images/w3-1-1.png)    
+  
 
-Now click on Cloud Foundry orgs sqare in mid-screen.   
-&nbsp;
+Now click on Cloud Foundry orgs sqare in mid-screen.     
+  
 
- ![image-w3-1-2](../images/w3-1-2.png)
-&nbsp;
+ ![image-w3-1-2](../images/w3-1-2.png)  
+  
 Next click on your email address visible to enter your organisation (at this moment this is the only org on your IBM Cloud account).
-&nbsp;
-
- ![image-w3-1-3](../images/w3-1-3.png) 
-&nbsp;
+  
+ ![image-w3-1-3](../images/w3-1-3.png)   
+  
 In your organisation there is only one space: 'dev'. Create another space using 'Add Space' button on the upper right.
-&nbsp;
- ![image-w3-1-4](../images/w3-1-4.png)
-&nbsp;
-Select the region available and put a name for your space (for example: space-1). Click the 'Save' button. 
-&nbsp;
- ![image-w3-1-5](../images/w3-1-5.png)
-&nbsp;
+  
+ ![image-w3-1-4](../images/w3-1-4.png)  
+  
+Select the region available and put a name for your space (for example: space-1). Click the 'Save' button.   
+> Note: write down the name of the region. You will need it while startin your app.
+  
+ ![image-w3-1-5](../images/w3-1-5.png)  
+  
 You should see a new space in a list, like on the screen below:
-&nbsp;
- ![image-w3-1-6](../images/w3-1-6.png)
-&nbsp;
+  
+ ![image-w3-1-6](../images/w3-1-6.png)  
+
 
 
 Now when a space is created you will have a place to put your app in.     
 Navigate to your dashboard on IBM Cloud. You can use first icon on the vertical menu on the left.  
-&nbsp;
-&nbsp;
- ![image-w3-2](../images/w3-2.png)  
-&nbsp;
-&nbsp;
+
+ ![image-w3-2](../images/w3-2.png)    
+  
 
 
 Right now Click on the search pane and write **"demo"**. You should see a 'Visual Recognition Node.js App' (among other things).
-&nbsp;
-&nbsp;
- ![image-w3-3](../images/w3-3.png)
-&nbsp;
-&nbsp;
+  
+ ![image-w3-3](../images/w3-3.png)  
+  
 Click on that app. You will get to a page descibing what is exaclty started.
-&nbsp;
-> Note that first instance Visual Recognition service is free, so you don't have to worry about any charges. This rule applies to majority of services available on IBM Cloud. First service comes for free on a Lite  
-&nbsp;
-&nbsp;
- ![image-w3-4](../images/w3-4.png)
-&nbsp;
-&nbsp;
-Click 'Get Started'. You are redirected to a page creating your free Visual Recognition instance.
+  
+> Note that first instance Visual Recognition service is free, so you don't have to worry about any charges. This rule applies to majority of services available on IBM Cloud. First service comes for free on a Lite    
+  
+ ![image-w3-4](../images/w3-4.png)  
+  
+Click 'Get Started'. You are redirected to a page creating your free Visual Recognition instance.  
 
-&nbsp;
-&nbsp;
- ![image-w3-5](../images/w3-5.png)
-&nbsp;
-&nbsp;
-Now you need to choose a region and a pricing plan for your newly created app. For a pricing plan ensure that you are on Lite. Then click 'Create' button.
+  
+ ![image-w3-5](../images/w3-5.png)  
+  
+Now you need to choose a region that you previously written down during creation of new space.
+For a pricing plan ensure that you are on Lite. Then click 'Create' button.    
 
-&nbsp;
-> Note that your instance will be created in one of IBM Cloud regions. You can choose a region (which means data center for your app or data) that is close to you and is located within the boundaries of Europen Union. In that case no data will leave EU.
-&nbsp;
-&nbsp;
-&nbsp;
- ![image-w3-6](../images/w3-6.png)
-&nbsp;
-&nbsp;
+ ![image-w3-6](../images/w3-6.png)  
 
-Now your are ready to deploy your app. Click 'Deploy you app' button. 
-&nbsp;
+You are redirected to your applications page, click 'Deploy you App' button.
+  
  ![image-w3-7](../images/w3-7.png)
 &nbsp;
 
@@ -107,29 +93,32 @@ Select Cloud Foundry VM to deploy your app on (as on the screen below).
  ![image-w3-8](../images/w3-8.png)
 &nbsp;
 Now you need to click 'New' button in the part 'IBM Cloud API Key'. You will get a following pop up window:
-&nbsp;
- ![image-w3-9](../images/w3-9.png)
-&nbsp;
+  
+ ![image-w3-9](../images/w3-9.png)  
+  
 You don't have to save this API key. For simplicity just click OK button and API key will be created for you.
- XXXXXXXXXXXXXXXXXXXXX
+
+
+Leave memory allocation as it is.   
+Now you need to choose again the region of your organization. When you do so, your spaces will show up like on the screen below. Choose newly created space and hit the 'Next' button.
+  
+ ![image-w3-10](../images/w3-10.png)  
+  
+Now you can see the final page before create an app. Ensure the region is region of your organisation and click 'Create'.
+  
+ ![image-w3-11](../images/w3-11.png)  
+  
+You are redirected to page when a lot of things will happen automatically in the background.
+
+  
+ ![image-w3-11](../images/w3-12.png)  
 
 
 
 
-A lot of things will happen in the backgound: git lab repository will be created, Continous Integration instance will be created for you. Your app will be build from scratch and then deployed on Cloud Foundry VM. You just need to wait 5-10 minutes for all that things to process. 
-
-&nbsp;
-&nbsp;
- ![image-w3-7](../images/w3-7.png)
-&nbsp;
-&nbsp;
-
-
-
-
-
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
+  
+    
+      
+        
+        
 # End of Visual Recognition Lab
