@@ -1,37 +1,17 @@
 # Extra Stuff OpenAI - DO NOT USE, SITE UNDER CONTRUCTION !!!!
-.
-.
-.
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-Wanna return to the agenda page?  [CLICK HERE](../README.md)
-.
-.
-.
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-
 
 
 
 
 # Lab - running Reinforcement Learning models on Watson Studio
-`(space)`(space)(space)
-`(space)`(space)(space)
-`(space)`(space)(space)
+.&nbsp;
+.&nbsp;
+.&nbsp;
 Wanna return to the agenda page?  [CLICK HERE](../README.md)
-`(space)`(space)(space)
-`(space)`(space)(space)
-`(space)`(space)(space)
+.&nbsp;
+.&nbsp;
+.&nbsp;
 ![w2](../images/w2.png)
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
 &nbsp;
 &nbsp;
 ![image-w4-1](../images/w4-1.png)
