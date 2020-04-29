@@ -1,12 +1,14 @@
 
 # Lab - running AutoAI experiment on Watson Studio
-`(space)`(space)(space)
-`(space)`(space)(space)
-`(space)`(space)(space)
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
 Wanna return to the agenda page?  [CLICK HERE](../README.md)
-`(space)`(space)(space)
-`(space)`(space)(space)
-`(space)`(space)(space)
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
 ![w2](../images/w2.png)
 &nbsp;
 &nbsp;
