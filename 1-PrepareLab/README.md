@@ -78,14 +78,24 @@ Finally you should get a dashboard screen on your cloud account as shown above. 
 
 
 
+
 # Task 2. Start Watson Studio Instance
 
-Write **Watson Studio** or just **studio** in the search pane on the dashboard screen of your IBM Cloud account. Click on the search pane. You should see scroll down with Watson Studio service (the one with a lamp icon).
+Write **"Watson Studio"** or just **"studio"** in the search pane on the dashboard screen of your IBM Cloud account. Click on the search pane or just wait. You should see scroll down with a Watson Studio service (the one with a lamp icon).
+
 
 ![image-w2-1](../images/w2-1.png)
 
-Click on the Watson Studio Service. You should get to the screen with payment plans (below). Doublecheck that Lite Plan is chosen and click Create button on the rigt bottom corner of the screen.
-![image-20190118112743476w2-2](../images/w2-2.png)
+
+
+Click on the Watson Studio Service. You should get to the screen with payment plans (below). Ensure that the Lite Plan is chosen and click Create button on the rigt bottom corner of the screen.
+![image-w2-2](../images/w2-2.png)
+
+Welcome to Watson Studio :)
+![image-tenor](../images/tenor.gif)
+
+Take a moment for scanning through Documentation with all the knowledge and tutorials for Watson Studio and through Community part where notebooks with various models are created.
+
 
 Click **Apply Code** button.
 
