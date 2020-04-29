@@ -40,22 +40,22 @@ Next click on your email address (visible on picture below) to enter your organi
 
 > Organizations and spaces are a way to organize many cloud foundry apps. Oragnizations can hold a department or even whole company within the organization you can create may spaces. Spaces are for separate apps or projects. Then you attach apps, cloud services or users to them.    
 
-  
- ![image-w3-1-3](../images/w3-1-3.png)     
-  
+    
+ ![image-w3-1-3](../images/w3-1-3.png)         
+    
 In your organisation there is only one space: 'dev'. Create another space using 'Add Space' button on the upper right.  
-  
- ![image-w3-1-4](../images/w3-1-4.png)    
-  
+    
+ ![image-w3-1-4](../images/w3-1-4.png)      
+    
 Select the region available and put a name for your space (for example: my-watson-app). Click the 'Save' button.     
 > Note: write down the name of the region. You will need it while starting your app.  
-  
- ![image-w3-1-5](../images/w3-1-5.png)      
     
+ ![image-w3-1-5](../images/w3-1-5.png)          
+      
 You should see a new space in a list, like on the screen below:    
       
- ![image-w3-1-6](../images/w3-1-6.png)      
-  
+ ![image-w3-1-6](../images/w3-1-6.png)        
+    
   
 # Task 2. Creating Visual Recognition App on IBM Cloud    
   
@@ -113,13 +113,13 @@ Now you can see the final page before create an app. Ensure the region is region
       
 You are going back to applicatoion console page when a lot of things will happen automatically in the background. Wait 5-10 minutes. Finally status 'success' should be visible in the mid-screen as shown below. Click on the application link (black arrow on pic below).  
       
- ![image-w3-11](../images/w3-12.png)      
+ ![image-w3-12](../images/w3-12.png)      
    
  Now you can enjoy how the working model analyzes photos. You can upload your custom image and find our that there are many classifiers in the model that try to recognize what is presented on the picture.  
  Explore application console and application itself.  
   
       
- ![image-w3-11](../images/w3-14.png)      
+ ![image-w3-14](../images/w3-14.png)      
  
     
   
