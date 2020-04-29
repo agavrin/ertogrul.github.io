@@ -1,10 +1,12 @@
 # Lab: Creating Visual Recognition App on IBM Cloud
-.&nbsp;
-Wanna return to the agenda page?  [CLICK HERE](../README.md)
-.&nbsp;
+  
+
+Wanna return to the agenda page?  [CLICK HERE](../README.md)  
+  
+  
 ![image-w3-1](../images/w3-1.png)
-&nbsp;
-&nbsp;
+  
+    
 > IMPORTANT: The most important thing for you right now is to take your time and do not rush through the scripts. Rather, try to understand new concepts and let them sink in. You can finish the lab during the workshop but if don't it's OK. You will be able to finish it later.  You can also continue with other labs that you find on the way. This is how any skill is built - by doing.   
 &nbsp;
 

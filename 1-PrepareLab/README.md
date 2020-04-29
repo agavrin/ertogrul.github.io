@@ -1,8 +1,11 @@
 # Preparation Lab
-
-.&nbsp;
+  
+  
+    
 Wanna return to the agenda page?  [CLICK HERE](../README.md)
-.&nbsp;
+  
+    
+     
 
 ![w2](../images/w2.png)
 &nbsp;
