@@ -1,29 +1,16 @@
 # Lab: Creating Visual Recognition App on IBM Cloud
-.
-.
-.
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
+.&nbsp;
 Wanna return to the agenda page?  [CLICK HERE](../README.md)
-.
-.
-.
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
+.&nbsp;
 ![image-w3-1](../images/w3-1.png)
 &nbsp;
 &nbsp;
-> IMPORTANT: The most important thing for you right now is to take your time and do not rush through the scripts. Rather, try to understand new concepts and let them sink in. You can finish the lab during the workshop but if don't it's OK. You will be able to finish it later.  You can also continue with other labs that you find on the way. This is how any skill is built - by doing. 
+> IMPORTANT: The most important thing for you right now is to take your time and do not rush through the scripts. Rather, try to understand new concepts and let them sink in. You can finish the lab during the workshop but if don't it's OK. You will be able to finish it later.  You can also continue with other labs that you find on the way. This is how any skill is built - by doing.   
 &nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
+
+
+
+
 # 1. Creating Visual Recognition App on IBM Cloud
 
 Prerequisites for this lab are:
@@ -32,33 +19,46 @@ Prerequisites for this lab are:
 
 - [ ] Started instance of **Watson Studio** on your **IBM Cloud** account 
 
-IBM Cloud has several demonstration apps that you just need to find and start. Visual Recognition app will give you a chance to see how deployed model is connecting with cloud native www application. You can explore and tinker with it, this is what this app was created for :)
+IBM Cloud has several demonstration apps that you just need to find and start. Visual Recognition app will give you a chance to see how deployed model is connecting with cloud native www application. You can explore and tinker with it, this is what this app was created for :)  
 
 
 > If you haven't registered to IBM Cloud or haven't started Watson Studio intance, please proceed to Preparation Lab.
 
-When logged to IBM Cloud account navigate to Manage - Account menu in the top right corner of the screen.
+When logged to IBM Cloud account navigate to Manage - Account menu in the top right corner of the screen.  
 
 &nbsp;
-&nbsp;
- ![image-w3-1-1](../images/w3-1-1.png)
-&nbsp;
+ ![image-w3-1-1](../images/w3-1-1.png)  
 &nbsp;
 
-Now click on Cloud Foundry orgs sqare in mid-screen.
+Now click on Cloud Foundry orgs sqare in mid-screen.   
 &nbsp;
-&nbsp;
+
  ![image-w3-1-2](../images/w3-1-2.png)
 &nbsp;
+Next click on your email address visible to enter your organisation (at this moment this is the only org on your IBM Cloud account).
+&nbsp;
+
+ ![image-w3-1-3](../images/w3-1-3.png) 
+&nbsp;
+In your organisation there is only one space: 'dev'. Create another space using 'Add Space' button on the upper right.
+&nbsp;
+ ![image-w3-1-4](../images/w3-1-4.png)
+&nbsp;
+Select the region available and put a name for your space (for example: space-1). Click the 'Save' button. 
+&nbsp;
+ ![image-w3-1-5](../images/w3-1-5.png)
+&nbsp;
+You should see a new space in a list, like on the screen below:
+&nbsp;
+ ![image-w3-1-6](../images/w3-1-6.png)
 &nbsp;
 
 
-
-
-Navigate to your dashboard on IBM Cloud. You can use first icon on the vertical menu on the left.
+Now when a space is created you will have a place to put your app in.     
+Navigate to your dashboard on IBM Cloud. You can use first icon on the vertical menu on the left.  
 &nbsp;
 &nbsp;
- ![image-w3-2](../images/w3-2.png)
+ ![image-w3-2](../images/w3-2.png)  
 &nbsp;
 &nbsp;
 

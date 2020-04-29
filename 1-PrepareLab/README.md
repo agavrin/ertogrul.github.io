@@ -1,18 +1,12 @@
 # Preparation Lab
 
-+
-+
-+
+.&nbsp;
 Wanna return to the agenda page?  [CLICK HERE](../README.md)
-+
-+
-+
+.&nbsp;
 
 ![w2](../images/w2.png)
 &nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
+
 
 First step is preparing your environment on IBM Cloud. Check the following instructions.
 &nbsp;
