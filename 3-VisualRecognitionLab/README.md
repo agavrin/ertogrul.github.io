@@ -1,10 +1,15 @@
 # Lab: Creating Visual Recognition App on IBM Cloud
-
+.
+.
+.
 &nbsp;
 &nbsp;
 &nbsp;
 &nbsp;
 Wanna return to the agenda page?  [CLICK HERE](../README.md)
+.
+.
+.
 &nbsp;
 &nbsp;
 &nbsp;

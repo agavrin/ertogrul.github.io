@@ -1,10 +1,17 @@
 
 # Lab - running AutoAI experiment on Watson Studio
+.
+.
+.
+
 &nbsp;
 &nbsp;
 &nbsp;
 &nbsp;
 Wanna return to the agenda page?  [CLICK HERE](../README.md)
+.
+.
+.
 &nbsp;
 &nbsp;
 &nbsp;
