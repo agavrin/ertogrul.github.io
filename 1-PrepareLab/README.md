@@ -3,11 +3,22 @@
 
 -----------------------------------------
 ![w2](../images/w2.png)
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
 &nbsp;
 &nbsp;
 &nbsp;
 &nbsp;
 Return to the agenda page: [CLICK HERE](../README.md)
+<br />
+<br />
+<br />
+<br />
+<br />
 &nbsp;
 &nbsp;
 &nbsp;
