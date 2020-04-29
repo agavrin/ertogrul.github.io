@@ -1,11 +1,10 @@
 
 
-# Registration to IBM Cloud
+# Preparation Lab
 ---
 
 -----------------------------------------
 ![w2](../images/w2.png)
-
 
 
 First step is preparing your environment on IBM Cloud. Check the following instructions.
@@ -22,16 +21,18 @@ All labs are executed on the **IBM Cloud**, and prerequisites are:
 
 **If you already have a IBM id, go to point 2 of this script.**
 
-> If you don't have a valid email address that you could use for cloud registration please use a temporary email service, like this: https://temp-mail.org/en/
-
-This web site will give you a temporary email address for 10 minutes :
+If you don't have a valid email address that you could use for cloud registration please use a temporary email service, like this: https://temp-mail.org/en/
+The temp-mail web site (shown below) will give you a temporary email address for 10 minutes. You can use this temporaty email address just to register to IBM Cloud. 
 
 ![image w1-1](../images/w1-1.png)
 
-From screen above, you can use this temporaty email address (cugebezaza@utooemail.com for example) just to register to IBM Cloud. 
+
+
+
+
 
 ### Start registration
-To register to **IBM Cloud**, open this link: [IBM Cloud](cloud.ibm.com/registration) or type http://cloud.ibm.com/registration in your browser (Chrome or Firefox are recommended).
+To register to **IBM Cloud**, open this link: [IBM Cloud](cloud.ibm.com/registration) or type http://cloud.ibm.com/registration in your browser (Chrome or Firefox are recommended). You will get to this page.
 
 
 
@@ -40,25 +41,24 @@ To register to **IBM Cloud**, open this link: [IBM Cloud](cloud.ibm.com/registra
 ### Fill in the form
 Specify email and password.
 
+> IMPORTANT : Take a note of your email address and your password.
+
 ![image-w1-3](../images/w1-3.png)
 
-Click 'Next' button.
+Click 'Next' button to move to next page. Now the verification code is generated to 
 
 ![image-w1-4](../images/w1-4.png)
 
-Check your email and enter verification code in the field as shown above. Click 'Next' button.
+Check your email inbox and get the verification code from the email to the field shown above. Click 'Next' button.
 
 ![image-w1-5](../images/w1-5.png)
 
 Enter your name, second name and country. Click 'Next' button.
 
 
-> By **default**, all new people that register to IBM Cloud will have an **Lite Account** with **no time restriction**. This is not a 30 day trial account.  
+> By **default**, you get a **Lite Account** with **no time restriction**. This is not a 30 day trial account. You are about to build things that will last for ages ;)  
 
 Click on **Create Account** button.
-
-![image-20190118103712268](../images/image-20190118103712268-7804232.png) 
-
 
 ![Proceed](/../images/w1-6.png)
 
@@ -66,53 +66,26 @@ Click on **Create Account** button.
 Then if everything is fine, you will receive Data agreement page. After reading click 'Proceed' button on the bottom of the page.
 
 
-![Proceed](/../images/w1-7.png)
+![hellofinal](/../images/w1-7.png)
 
-Finally you should get a dashboard screen on your cloud account as shown above.
-
-
+Finally you should get a dashboard screen on your cloud account as shown above. First thing you can do is clicking Catalog button and scanning through all those services you can use to build your future apps :) 
 
 
-### Confirm your registration to IBM Cloud from your inbox
-From your email application , you should have received an email from the IBM Cloud:
+> IMPORTANT : Have you written down your email and password? Last chance to do it.
 
-![image-20190118103917487](../images/image-20190118103917487-7804357.png)
 
-Click on the link to confirm the account:
 
-![image-20190118104115473](../images/image-20190118104115473-7804475.png)
 
-Log in to IBM Cloud with your credentials :
-
-![Success Sign up](./../images/a005.png)
-
-Then type your password and click **Continue**
-
-![image-20190118104305743](../images/image-20190118104305743-7804585.png)
-
-Type your password and click Login button:
-
-![image-20190118104419179](../images/image-20190118104419179-7804659.png)
-
-You should see the following **Dashboard**:
-
-![image-20190118104520085](../images/image-20190118104520085-7804720.png)
-
-You are now connected (and registred) to the IBM Cloud.
-
-> IMPORTANT : Take a note of your email address and your password.
 
 
 # Task 2. Start Watson Studio Instance
 
-Go to **Manage >Account > Account Settings** and press enter.
+Write **Watson Studio** or just **studio** in the search pane on the dashboard screen of your IBM Cloud account. Click on the search pane. You should see scroll down with Watson Studio service (the one with a lamp icon).
 
+![image-w2-1](../images/w2-1.png)
 
-![image-20190118112618467](../images/image-20190118112618467-7807178.png)
-
-You should get the following section in the **account setting page**  :
-
-![image-20190118112743476](../images/promocode-enter.png)
+Click on the Watson Studio Service. You should get to the screen with payment plans (below). Doublecheck that Lite Plan is chosen and click Create button on the rigt bottom corner of the screen.
+![image-20190118112743476w2-2](../images/w2-2.png)
 
 Click **Apply Code** button.
 
