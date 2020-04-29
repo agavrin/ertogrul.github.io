@@ -1,15 +1,16 @@
-# Extra Stuff OpenAI - DO NOT USE, SITE UNDER CONTRUCTION !!!!  
+# DO NOT USE, SITE UNDER CONSTRUCTION !!!!  
+    
+      
+# Lab - running Reinforcement Learning models on Watson Studio    
   
     
-# Lab - running Reinforcement Learning models on Watson Studio  
-
   
-
-Wanna return to the agenda page?  [CLICK HERE](../README.md)
+Wanna return to the agenda page?  [CLICK HERE](../README.md)  
+    
+      
+![image-w4-1](../images/w4-1.png)    
+    
   
-![image-w4-1](../images/w4-1.png)  
-  
-
 > IMPORTANT: The most important thing for you right now is to take your time and do not rush through the scripts. Rather, try to understand new concepts and let them sink in. You can finish the lab during the workshop but if don't it's OK. You will be able to finish it later.  You can also continue with other labs that you find on the way. This is how any skill is built - by doing. 
   
     

@@ -107,34 +107,28 @@ Write **"Watson Studio"** or just **"studio"** in the search pane on the dashboa
 Click on the Watson Studio Service. You should get to the screen with payment plans (below). This service is for starting one or many instances of Watson Studio. 
 
 
-> Note that your instance will be created in one of IBM Cloud regions. You can choose a region (which means data center for your app or data) that is close to you and is located within the boundaries of Europen Union. In that case no data will leave EU. 
+> Note that your instance will be created in one of IBM Cloud regions. You can choose a region (which means data center for your app or data) that is close to you and is located within the boundaries of Europen Union. In that case no data will leave EU.   
+  
 
-
-Ensure that the Lite Plan is chosen and click Create button on the rigt bottom corner of the screen. 
-
-
-&nbsp;
-&nbsp;
+Ensure that the Lite Plan is chosen and click Create button on the rigt bottom corner of the screen.   
+  
+  
 ![image-w2-2](../images/w2-2.png)
-&nbsp;
-&nbsp;
-
+  
 Welcome to Watson Studio :)
 
-&nbsp;
-&nbsp;
-![image-tenor](../images/tenor.gif)
-&nbsp;
-.&nbsp;
+  
+![image-tenor](../images/tenor.gif)  
+  
 Take a moment to look at Documentation with great tutorials and scan through Community part where notebooks with various models are created.
 
-
-![image-w2-3](../images/w2-3.png)
-
+  
+![image-w2-3](../images/w2-3.png)  
+  
 Now you can click 'Get Started' button. 
 There maybe additional mesage saying that Watson Studio is ready, confirm by clicking 'Get Started' on button in the message box. 
 You will see a welcoming screen with of Watson Studio application. 
 Congrats :)
-
-
+  
+  
 # End of Preparation Lab
