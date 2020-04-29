@@ -2,7 +2,7 @@
   
   
     
-Wanna return to the agenda page?  [CLICK HERE](../README.md)
+Returning to the agenda page?  [CLICK HERE](../README.md)
   
     
      
