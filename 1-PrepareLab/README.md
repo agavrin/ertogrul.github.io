@@ -5,10 +5,13 @@
 
 -----------------------------------------
 ![w2](../images/w2.png)
-
+&NewLine;
+&NewLine;
+&NewLine;
 
 First step is preparing your environment on IBM Cloud. Check the following instructions.
-
+&NewLine;
+&NewLine;
 
 # 1. IBM Cloud registration
 
@@ -102,46 +105,9 @@ Take a moment to look at Documentation with great tutorials and scan through Com
 ![image-w2-3](../images/w2-3.png)
 
 Now you can click 'Get Started' button. 
-There maybe additional mesage that Watson Studio is ready, confirm by clicking 'Get Started' on the message box. 
+There maybe additional mesage saying that Watson Studio is ready, confirm by clicking 'Get Started' on button in the message box. 
 You will see a welcoming screen with of Watson Studio application. 
 Congrats :)
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-commands:
-
-`ibmcloud target -o <Your Email> -s dev`
-
-
-`ibmcloud target -o kari@dmailpro.net -s dev`
-
-Results:
-
- ```console 
-root@warsaw901:~# ibmcloud target -o kari@dmailpro.net -s dev
-Targeted Cloud Foundry (https://api.eu-gb.cf.cloud.ibm.com)
-
- ```
+# End of Preparation Lab
