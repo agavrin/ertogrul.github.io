@@ -5,13 +5,13 @@
 
 -----------------------------------------
 ![w2](../images/w2.png)
-&NewLine;
-&NewLine;
-&NewLine;
+&nbsp;
+&nbsp;
+&nbsp;
 
 First step is preparing your environment on IBM Cloud. Check the following instructions.
-&NewLine;
-&NewLine;
+&nbsp;
+&nbsp;
 
 # 1. IBM Cloud registration
 
