@@ -31,7 +31,7 @@ The temp-mail web site (shown below) will give you a temporary email address for
 ![image w1-1](../images/w1-1.png)  
   
 ### Start registration  
-To register to **IBM Cloud**, open this link: [IBM Cloud](cloud.ibm.com/registration) or type http://cloud.ibm.com/registration in your browser (Chrome or Firefox are recommended). You will get to this page.  
+To register to **IBM Cloud**, open this link: [IBM Cloud](cloud.ibm.com/registration) or type: http://cloud.ibm.com/registration in your browser (Chrome or Firefox are recommended). You will get to the following page.  
   
 ![image-w1-2](../images/w1-2.png)  
   
@@ -64,7 +64,7 @@ Then if everything is fine, you will get on data agreement page. After reading t
   
 ![hellofinal](/../images/w1-7.png)  
   
-Finally you should get a dashboard screen on your cloud account as shown above. First thing you can do is clicking Catalog button and scanning through all those services you can use to build your future apps :)   
+Finally you should get a dashboard screen on your cloud account as shown above. First thing you can do is clicking Catalog button and scanning through all services you can use to build your future apps :)   
 
 
 > IMPORTANT : Have you written down your email and password? Last chance to do it.  
@@ -83,7 +83,7 @@ Click on the Watson Studio Service. You should get to the screen with payment pl
 > Note that your instance will be created in one of IBM Cloud regions. You can choose a region (which means data center for your app or data) that is close to you and is located within the boundaries of Europen Union. In that case no data will leave EU.     
     
 
-Ensure that the Lite Plan is chosen and click Create button on the rigt bottom corner of the screen.     
+Ensure that the Lite Plan is chosen and click Create button on the right bottom corner of the screen.     
     
   
 ![image-w2-2](../images/w2-2.png)  
@@ -93,13 +93,13 @@ Welcome to Watson Studio :)
   
 ![image-tenor](../images/tenor.gif)    
     
-Take a moment to look at Documentation with great tutorials and scan through Community part where notebooks with various models are created.  
+Take a moment to look at Documentation with great tutorials and scan through Community part where notebooks with various useful models.
   
   
 ![image-w2-3](../images/w2-3.png)    
     
 Now you can click 'Get Started' button.   
-There maybe additional mesage saying that Watson Studio is ready, confirm by clicking 'Get Started' on button in the message box. 
+There maybe additional message saying that Watson Studio is ready, confirm by clicking 'Get Started' on button in the message box. 
 You will see a welcoming screen with of Watson Studio application.  
 Congrats :)  
     
