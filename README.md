@@ -1,11 +1,3 @@
-<head>
-<style>
-img {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-}
-</style>
 # Hello !
     
 
@@ -41,4 +33,8 @@ img {
 <br>
 
 
-<img src="https://ertogrul.github.io/images/w5-3.gif" alt="bee" style="width:100%;"/>
+
+align="left"
+
+
+<img align="center" src="https://ertogrul.github.io/images/w5-3.gif" alt="bee" />
