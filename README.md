@@ -1,5 +1,4 @@
-# Hello !
-    
+<head>
 <style>
 img {
   display: block;
@@ -7,6 +6,8 @@ img {
   margin-right: auto;
 }
 </style>
+# Hello !
+    
 
 <br>
 <br>
