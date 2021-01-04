@@ -1,7 +1,6 @@
 # Hello !
     
-
-
+    
 
 ## Please choose one of the courses below:
 
@@ -17,9 +16,5 @@
 
 
 
-
-
-
-<img src="https://ertogrul.github.io/images/w5-3.gif"
-     alt="bee"
-     align="center" />
+<p style="text-align:center;"><img src="https://ertogrul.github.io/images/w5-3.gif"
+     alt="bee" /></p>
