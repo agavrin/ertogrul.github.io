@@ -1,10 +1,15 @@
 # Hello !
     
 
-<div align=”center”> ![bee](https://ertogrul.github.io/images/w5-3.gif)
 
-</div>
-![w5-3](/images/w5-3.gif)    
+<div align=”center”> ![bee](https://ertogrul.github.io/images/w5-3.gif) </div>
+
+
+
+![w5-3](/images/w5-3.gif)  
+
+
+
 ## Please choose one of the courses below:
 
      
