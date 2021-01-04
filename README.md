@@ -36,4 +36,8 @@
 
 <img src="https://ertogrul.github.io/images/w5-3.gif" align="center"/>
 
-<img src="https://ertogrul.github.io/images/w5-3.gif" style="text-align: center"/>
+<table cellpadding="0" cellspacing="0" border="0" width="100%">
+<tr><td align="center">
+<img src="https://ertogrul.github.io/images/w5-3.gif">
+</td></tr>
+</table>
