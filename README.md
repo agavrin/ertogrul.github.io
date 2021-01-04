@@ -1,10 +1,6 @@
 # Hello !
     
 
-<img src="https://ertogrul.github.io/images/w5-3.gif"
-     alt="bee"
-     align="center" />
-
 
 
 ## Please choose one of the courses below:
@@ -18,6 +14,12 @@
 
 
 ![w5-2](/images/w5-2.png)
-<div align=”center”> 
 
-</div>
+
+
+
+
+
+<img src="https://ertogrul.github.io/images/w5-3.gif"
+     alt="bee"
+     align="center" />
