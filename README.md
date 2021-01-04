@@ -7,7 +7,6 @@
 
 ## Please choose one of the courses below:
 <br>
-<br>
 
      
 + Decision Optimization on Watson:
