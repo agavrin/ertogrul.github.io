@@ -2,14 +2,14 @@
     
 
     
- ## Please choose one of the courses below:
+## Please choose one of the courses below:
 
      
-+ Decision Optimization on Watson:
-  + [1-PrepareLab/README.md](1-DecisionOptimizationWorkshop/README.md)
+## + Decision Optimization on Watson:
+    + [1-PrepareLab/README.md](1-DecisionOptimizationWorkshop/README.md)
 
-+ Watson Studio on IBM Cloud:    
-  + [2-WatsonStudioLab/README.md](2-WatsonStudioWorkshop/README.md)    
+## + Watson Studio on IBM Cloud:    
+    + [2-WatsonStudioLab/README.md](2-WatsonStudioWorkshop/README.md)    
 
 
 
