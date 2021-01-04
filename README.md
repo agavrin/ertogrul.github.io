@@ -2,7 +2,9 @@
     
 
 
-
+<br>
+<br>
+<br>
 
 ## Please choose one of the courses below:
 
@@ -24,9 +26,12 @@
  -->
 
 
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
 
-
-<img src="https://ertogrul.github.io/images/w5-3.gif"
-     alt="bee"
-     align="center"/>
+<img src="https://ertogrul.github.io/images/w5-3.gif" align="center"/>
