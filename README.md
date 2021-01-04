@@ -19,15 +19,20 @@
 <br>
 <br>
 <br>
-
+![w5-2](/images/w5-2.png)
 <p align="center">
-<img src="https://ertogrul.github.io/images/w5-2.png" alt="advocacy"/>	
+
 
 <!--
+	<img src="https://ertogrul.github.io/images/w5-2.png" alt="advocacy"/>	
 	![w5-2](/images/w5-2.png)
 <p style="text-align:center;"><img src="https://ertogrul.github.io/images/w5-3.gif"
      alt="bee" /></p>
  -->
+<br>
+<br>
+<br>
+<br>
 <br>
 <br>
 <br>
