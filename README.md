@@ -35,3 +35,5 @@
 
 
 <img src="https://ertogrul.github.io/images/w5-3.gif" align="center"/>
+
+<img src="https://ertogrul.github.io/images/w5-3.gif" style="text-align: center"/>
