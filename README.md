@@ -1,12 +1,9 @@
 # Hello !
     
 
-<div align=”center”> 
-<img src="https://ertogrul.github.io/images/w5-3.gif"
-     alt="bee" />
-</div>
 
-![w5-3](/images/w5-3.gif)  
+<p style="text-align:center;"><img src="https://ertogrul.github.io/images/w5-3.gif"
+     alt="bee" /></p>
 
 
 
