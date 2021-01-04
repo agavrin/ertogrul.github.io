@@ -22,7 +22,7 @@
 <br>
 
 <p align="center">
-<img src="https://ertogrul.github.io/images/w5-2.gif" alt="advocacy"/>	
+<img src="https://ertogrul.github.io/images/w5-2.png" alt="advocacy"/>	
 
 <!--
 	![w5-2](/images/w5-2.png)
