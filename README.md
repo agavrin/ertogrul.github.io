@@ -1,9 +1,9 @@
 # Hello !
     
 
-
-<p style="text-align:center;"><img src="https://ertogrul.github.io/images/w5-3.gif"
-     alt="bee" /></p>
+<img src="https://ertogrul.github.io/images/w5-3.gif"
+     alt="bee"
+     align="center" />
 
 
 
