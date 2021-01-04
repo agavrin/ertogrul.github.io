@@ -1,6 +1,12 @@
 # Hello !
     
-
+<style>
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+</style>
 
 <br>
 <br>
@@ -34,4 +40,4 @@
 <br>
 
 
-<img src="https://ertogrul.github.io/images/w5-3.gif" style="text-align:center;"/>
+<img src="https://ertogrul.github.io/images/w5-3.gif" alt="bee" style="width:100%;"/>
