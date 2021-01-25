@@ -27,5 +27,5 @@ Do you want to make decisions based on data? This is introductory crash course t
 + Start Decision Optimization tutorial - 60 minutes -  [just click here !!!](https://www.ibm.com/cloud/garage/dte/tutorial/ibm-decision-optimization-ibm-watson-studio-market-campaign)
 
 
-![w1-0-1](/images/w6-1.png)    
+![w1-0-1](/images/w6-2.png)    
   
