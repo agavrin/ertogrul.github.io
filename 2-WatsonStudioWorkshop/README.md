@@ -1,6 +1,6 @@
-# Watson on IBM Cloud Workshop    
+# Watson Studio on IBM Cloud Workshop    
     
-version 0.03, 2020.04.29    
+version 0.04, 2021.01.25    
     
 This is an introductory Watson Studio on Cloud workshop created by Michal Kordyzon, IBM Poland (michal.kordyzon@pl.ibm.com).  
 This workshop contains materials used in Watson Studio tutorials presented [here](https://www.ibm.com/cloud/garage/dte/tutorial/ibmr-watson-studio-mldl-made-easy).    
