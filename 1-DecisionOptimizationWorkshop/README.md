@@ -21,7 +21,9 @@ Do you want to make decisions based on data? This is introductory crash course t
 + Preparation Lab
   + [1-PrepareDOLab/README.md](1-PrepareDOLab/README.md)
 + Work with LP model
-  + [1-PrepareDOLab/README.md](1-PrepareDOLab/README.md)    
+  + [2-DecisionOptimizationLab/README.md](2-DecisionOptimizationLab/README.md)    
+
+**Part 3 (hands-on)**
 + Start Decision Optimization tutorial - 60 minutes -  [just click here !!!](https://www.ibm.com/cloud/garage/dte/tutorial/ibm-decision-optimization-ibm-watson-studio-market-campaign)
 
 
