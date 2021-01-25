@@ -9,10 +9,8 @@ XXXXX
     
 
     
-This is an introductory Watson Studio on Cloud workshop created by Michal Kordyzon, IBM Poland (michal.kordyzon@pl.ibm.com).  
-This workshop contains materials used in Watson Studio tutorials presented [here](https://www.ibm.com/cloud/garage/dte/tutorial/ibmr-watson-studio-mldl-made-easy).    
-    
-This course is meant for professionals with no data science background and who are subject experts in their fields (like engineering, logistics, marketing, procurement, sales, law, production, and more).    
+Do you want to make decisions based on data? This is introductory crash course to Decision Optimization product that is using simplex (CPLEX library) to solve linear programing problems.   
+     
      
 ![w1-0](/images/w1-0.png)      
     
