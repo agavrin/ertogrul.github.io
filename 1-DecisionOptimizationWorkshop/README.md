@@ -15,7 +15,7 @@ Do you want to make decisions based on data? This is introductory crash course t
 **Part 1 (presentation)**
 + Linear Programming Intro - 30 mins  
     + instruction in creation!!!!
-    + [download jupyter notebook file](https://www.ibm.com/cloud/garage/dte/tutorial/ibm-decision-optimization-ibm-watson-studio-market-campaign)
+    + [download jupyter notebook file](https://github.com/ertogrul/ertogrul.github.io/blob/master/Cake%20Competition%20Problem.ipynb)
 
 **Part 2 (hands-on)**
 + Review LP model on Watson Studio - 30 mins
